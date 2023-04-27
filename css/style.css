@@ -527,6 +527,13 @@ header .upperBlackRec {
         flex-direction: column; 
     }
 
+
+    #lowersection .lowerYellowRec {
+        Width: 100%;
+        Height: 409px;
+        margin: 0 0 0 0;
+        background-color: gold;
+    }
     #midlleWrapper{
         /* display: none; */
         width: 100%;
